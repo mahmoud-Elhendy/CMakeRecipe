@@ -1,0 +1,4 @@
+
+# set the project name
+project(hello)
+add_executable(main main.cpp)
